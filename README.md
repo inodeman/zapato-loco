@@ -1,23 +1,26 @@
-# No me mires las crocs
+# No me mires las Crocs
 
-TikTok vertical (9:16) para niños. Todo el chiste está en las crocs: rosa, verde y el resto de colores, en el centro del plano.
+Video vertical para TikTok (9:16) centrado en las Crocs.
 
-## Frase
+## Qué dice
 
-¡No me mires las crocs!
-¡No me mires las crocs!
-Una rosa y una verde, ¡y se mueven solitas!
-¡No me mires las crocs!
-¡Ay, se escapan!
-¡No me mires las crocs!
+¡No me mires las Crocs!
+¡No me mires las Crocs!
+¡Ay, ya las viste!
+Una rosa, una verde, ¡y las dos se ponen a bailar!
+¡No me mires las Crocs!
+¡Se escapan! ¡Vuelven!
+¡No me mires las Crocs!
 
-## Archivo
+## Plano
 
-`zapato-loco-tiktok.mp4`
+Primer plano de las Crocs rosa y verde. Luego las Crocs bailan solas y el pollito las persigue.
 
-Texto para publicar:
+## Para subirlo
+
+Archivo: `zapato-loco-tiktok.mp4`
 
 ```
-¡No me mires las crocs! 🐥
-#NoMeMiresLasCrocs #Crocs #ParaNiños #Pollitos #BaileInfantil
+¡No me mires las Crocs! 👟🐥
+#NoMeMiresLasCrocs #Crocs #ParaNiños #Pollitos #BaileInfantil #Kids
 ```
