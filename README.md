@@ -1,33 +1,23 @@
-# Zapato Loco
+# No me mires las crocs
 
-Video vertical para TikTok (9:16, 17 s) pensado para niños.
+TikTok vertical (9:16) para niños. Todo el chiste está en las crocs: rosa, verde y el resto de colores, en el centro del plano.
 
-No es el audio de “no me mires las crocs”. Es un corto nuevo, más colorido y más tierno: tres pollitos con bufanda y zapatos gigantes de colores, un baile, y un jingle original.
+## Frase
 
-## Qué pasa
+¡No me mires las crocs!
+¡No me mires las crocs!
+Una rosa y una verde, ¡y se mueven solitas!
+¡No me mires las crocs!
+¡Ay, se escapan!
+¡No me mires las crocs!
 
-1. Pío se asoma y pide que no miren sus zapatos.
-2. El rosa y el verde son enormes. Sus amigos entran a bailar y un zapato sale volando.
-3. Los zapatos se escapan. Pío los persigue.
+## Archivo
 
-## Letra original
+`zapato-loco-tiktok.mp4`
 
-¡No mires, no mires, mis zapatos locos!
-¡Uno es rosa! ¡El otro es verde!
-¡Y los dos se ponen a bailar!
-¡Pío! ¡Se escapan! ¡Ay, vuelven!
-¡Zapato loco, baila conmigo un poquito más!
-
-## Para subirlo
-
-Archivo listo: `zapato-loco-tiktok.mp4`
-
-Texto sugerido:
+Texto para publicar:
 
 ```
-¡No mires sus zapatos! 🐥👟
-Pío, Azul y Durazno y el baile del zapato loco.
-#ZapatoLoco #ParaNiños #Pollitos #BaileInfantil #Animacion #Kids
+¡No me mires las crocs! 🐥
+#NoMeMiresLasCrocs #Crocs #ParaNiños #Pollitos #BaileInfantil
 ```
-
-Música y voces son originales, hechas para este video.
